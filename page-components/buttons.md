@@ -1,8 +1,12 @@
 ---
+title: Buttons
 layout: page
-title:  Buttons
 category: Page components
-redirect_from: "/ui-toolkit/buttons.html"
+date: 2019-06-04T17:37:38.470Z
+implementation-status: proposed
+description: Buttons are the best!
+html-snippet: <html><button>button!</button></html>
+jinja2-snippet: '<html><button>{% button! %}</button></html>'
 ---
 
 - [Style](#style)
