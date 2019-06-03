@@ -4,7 +4,10 @@ layout: page
 category: Page components
 date: 2019-06-04T17:37:38.470Z
 implementation-status: proposed
-description: Buttons are the best!
+description: |-
+  # Buttons are things
+
+  Buttons are the best!
 html-snippet: <html><button>button!</button></html>
 jinja2-snippet: '<html><button>{% button! %}</button></html>'
 ---
