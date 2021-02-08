@@ -1,12 +1,15 @@
 ---
-layout: page
 title: Sticky note
-category: Page components
 date: 2019-05-13T16:48:08.177Z
 implementation-status: proposed
 description: >-
   You can write on it. You can stick it to a wall (or table, if you're feeling
   wacky). What's not to love?
+
+
+
+
+  So call.
 html-snippet: >-
   <div class="m-notification             m-notification__visible            
   m-notification__warning">   <div class="m-notification_content">         <div
@@ -33,7 +36,10 @@ section:
       to the contact information.
     section-heading: Use case
 ---
-More about stickies:
+### Colors
+You can make them yellow, pink, blue or green. I do not want orange. I have plenty of orange.
+
+### More about stickies:
 
 \- [What is the history of sticky notes](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
